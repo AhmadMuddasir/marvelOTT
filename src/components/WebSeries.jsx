@@ -28,7 +28,7 @@ const WebSeries = () => {
               <div className="flex sm:flex-row flex-col justify-around items-center">
                 <a className='m-1 ' href={web.link}>
                   <p className="p-[5px]   font-bold rounded-md text-[12px] m-[5px] btn-bg sm:text-sm">
-                    Watch Now <PlayCircleOutlineIcon></PlayCircleOutlineIcon>
+                    WATCH NOW <PlayCircleOutlineIcon></PlayCircleOutlineIcon>
                   </p>
                 </a>
                 <p className="sm:text-lg p-[12px] text-lg font-semibold">{web.webseries}</p>
